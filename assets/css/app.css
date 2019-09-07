@@ -1,0 +1,13 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+.clock__wrapper {
+  margin-top: 8rem;
+}
+.clock__wrapper h2 {
+  text-align: center;
+}
+.flip-clock-wrapper {
+  display: flex;
+  justify-content: center;
+}
